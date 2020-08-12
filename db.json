@@ -1,10 +1,3 @@
-[
-    {"message" : "Square of all positions","alert_intensity": "Medium", "timestamp":"10/08/2020 02:20PM"},
-    {"message" : "Dangeer zone near the chimney","alert_intensity": "High", "timestamp":"12/08/2020 06:20PM"},
-    {"message" : "Pipe has broken , Leakising possible","alert_intensity": "High", "timestamp":"09/08/2020 10:20PM"},
-    {"message" : "Weather condition is not good","alert_intensity": "Low", "timestamp":"10/09/2020 02:20PM"},
-    {"message" : "Time pressure today, Please be fast","alert_intensity": "Low", "timestamp":"10/08/2020 02:20Am"},
-    {"message" : "Gas is leaksing on third floor","alert_intensity": "High", "timestamp":"10/08/2020 02:20PM"},
-    {"message" : "No leaves today, whole day work","alert_intensity": "Medium", "timestamp":"10/08/2020 02:20PM"},
 
-]
+    {"message" : "Square of all positions","alert_intensity": "Medium", "timestamp":"10/08/2020 02:20PM"}
+
