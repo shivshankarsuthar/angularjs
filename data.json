@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "product": "Noctua",
+        "resource": "Drone",
+        "resource_category": "firstaa",
+        "available": 0,
+        "issued": 0,
+        "ordered": 0,
+        "vendors": []
+    },
+   
+    {
+        "id": 7,
+        "product": "Gumps",
+        "resource": "Screw set",
+        "resource_category": "hardware",
+        "available": 0,
+        "issued": 0,
+        "ordered": 0,
+        "vendors": []
+    }
+]
