@@ -9,7 +9,16 @@
         "ordered": 0,
         "vendors": []
     },
-   
+    {
+        "id": 5,
+        "product": "Noctua",
+        "resource": "Drone",
+        "resource_category": "testing",
+        "available": 0,
+        "issued": 0,
+        "ordered": 0,
+        "vendors": []
+    },
     {
         "id": 7,
         "product": "Gumps",
