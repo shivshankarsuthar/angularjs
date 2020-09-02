@@ -28,5 +28,15 @@
         "issued": 0,
         "ordered": 0,
         "vendors": []
+    },
+    {
+        "id": 7,
+        "product": "Gumps",
+        "resource": "Skrew set",
+        "resource_category": "Ganja",
+        "available": 3,
+        "issued": 2,
+        "ordered": 1,
+        "vendors": []
     }
 ]
