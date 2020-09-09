@@ -4,7 +4,7 @@
         "product": "Noctua",
         "resource": "Drone",
         "resource_category": "firstaa",
-        "available": 0,
+        "available": 4,
         "issued": 0,
         "ordered": 0,
         "vendors": []
@@ -14,7 +14,17 @@
         "product": "Noctua",
         "resource": "Drone",
         "resource_category": "testing",
-        "available": 0,
+        "available": 3,
+        "issued": 0,
+        "ordered": 0,
+        "vendors": []
+    },
+     {
+        "id": 33,
+        "product": "Noctua",
+        "resource": "Drone",
+        "resource_category": "General",
+        "available": 8,
         "issued": 0,
         "ordered": 0,
         "vendors": []
