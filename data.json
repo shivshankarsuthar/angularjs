@@ -1,52 +1,33 @@
+
 [
     {
-        "id": 1,
-        "product": "Noctua",
-        "resource": "Drone",
-        "resource_category": "firstaa",
-        "available": 4,
-        "issued": 0,
-        "ordered": 0,
-        "vendors": []
+        "id": 4,
+        "resource": "Laptop",
+        "product": "IT",
+        "resource_category": "i7",
+        "isChecked": false,
+        "isSelected": true,
+        "required": 0,
+        "available": 5
     },
     {
         "id": 5,
-        "product": "Noctua",
-        "resource": "Drone",
-        "resource_category": "testing",
-        "available": 3,
-        "issued": 0,
-        "ordered": 0,
-        "vendors": []
-    },
-     {
-        "id": 33,
-        "product": "Noctua",
-        "resource": "Drone",
+        "resource": "Glue stick",
+        "product": "Gumps",
         "resource_category": "General",
-        "available": 8,
-        "issued": 0,
-        "ordered": 0,
-        "vendors": []
+        "isChecked": false,
+        "isSelected": false,
+        "required": 0,
+        "available": 5
     },
     {
-        "id": 7,
+        "id": 6,
+        "resource": "Glue stick",
         "product": "Gumps",
-        "resource": "Screw set",
-        "resource_category": "hardware",
-        "available": 0,
-        "issued": 0,
-        "ordered": 0,
-        "vendors": []
-    },
-    {
-        "id": 7,
-        "product": "Gumps",
-        "resource": "Screw set",
-        "resource_category": "Ganja",
-        "available": 3,
-        "issued": 2,
-        "ordered": 1,
-        "vendors": []
+        "resource_category": "Most general",
+        "isChecked": false,
+        "isSelected": true,
+        "required": 0,
+        "available": 5
     }
 ]
