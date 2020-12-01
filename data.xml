@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+<details>
+    <credentials>
+        <username>Rajkumar Rao</username>
+        <password>rajkumarrao></password>
+        <access-type>root</access-type>
+    </credentials>
+
+    <credentials>
+    <username>Amitabh bachhan</username>
+    <password>amitabhbachhan</password>
+    <access-type>regular</access-type>
+    </credentials>
+
+    <credentials>
+        <username>Shikari</username>
+        <password>shikari></password>
+        <access-type>regular</access-type>
+    </credentials>
+
+    <credentials>
+        <username>Guruji</username>
+        <password>guruji></password>
+        <access-type>regular</access-type>
+    </credentials>
+
+</details
