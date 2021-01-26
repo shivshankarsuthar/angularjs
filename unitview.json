@@ -1,0 +1,23 @@
+{
+   "data":[
+      {
+         "hour":"12:00:00",
+         "TotalCount":130
+      },
+      {
+         "hour":"13:00:00",
+         "TotalCount":90
+      }, {
+         "hour":"14:00:00",
+         "TotalCount":10
+      },
+       {
+         "hour":"08:00:00",
+         "TotalCount":20
+      }
+   ],
+   "peak_occupancy":211,
+   "average_occupancy":134,
+   "maximum_occupancy":100,
+   "current_occupancy":1
+}
